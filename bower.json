@@ -1,0 +1,17 @@
+{
+    "name": "herrvonmuellerhoff-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sudtipos"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/herrvonmuellerhoff-bower.git"
+    },
+    "description": "Herr Von Muellerhoff font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
